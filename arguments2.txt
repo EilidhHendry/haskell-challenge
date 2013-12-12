@@ -1,0 +1,9 @@
+arg1 [protection, NoMoreWars] [] AllnationsShouldHavenuclearBombs 0.4 .
+arg2 [violentHistoryofHumans] [peacePeriods] -NoMoreWars 0.3 .
+arg3 [nuclearisTodestructive] [cantdestroyearth] NoMoreWars 0.7 .
+arg4 [bestDefenseisAttack] [aggresivityGetsYouTrouble] -protection 0.8 .
+arg5 [nuclearIsBestWeapon] [EnnemyCouldUseCoupDEtatorAccuseYouofTerrorism] protection 0.3 .
+arg6 [SurpriseEnnemy] [blitzkriegFailed] bestDefenseisAttack 0.6 .
+arg7 [Switzerland] [SwitzerlandDoesNotGoToWar] -bestDefenseisAttack 0.2 .
+arg8 [NaziLostWW2] [NaziWereOutnumbered] blitzkriegFailed 0.4 .
+arg9 [AlloWedToReachParisQuickly] [FranceWasWeak] -blitzkriegFailed 0.6 .

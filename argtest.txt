@@ -1,0 +1,5 @@
+arg1 [prem1, finance] [unreliable] viable 0.4
+arg2 [finance, expert] [oil] -viable 0.9
+arg3 [noinfo] [addfree] oil 0.5
+arg4 [survey] [] unreliable 0.6
+arg5 [-yug] [] -unreliable 0.3

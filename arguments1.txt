@@ -1,0 +1,5 @@
+a1 [car, history] [setup] hisdrug 0.4 .
+a2 [history, rehab] [dropped] -hisdrug 0.9 .
+a3 [NoImprovement] [AddictionFree] dropped 0.5 .
+a4 [onlyAccess] [] setup 0.6 .
+a5 [-JunkieFriends] [] -setup 0.3 .
